@@ -11,7 +11,7 @@ To construct an automated, hands-free smart dustbin utilizing an HC-SR04 ultraso
 Components&nbsp;
 
 ![][image1]
-
+![image1](componentservo.png)
 &nbsp;
 
 ## Working:
@@ -25,7 +25,7 @@ Components&nbsp;
 ### Circuit Diagram
 
 ![][image2]
-
+![image2](circuitdiagramservo.png)
 &nbsp;
 
 #### Schematic Diagram
@@ -33,7 +33,7 @@ Components&nbsp;
 &nbsp;
 
 ![][image3]
-
+![image3](schematicdiagramservo.png)
 &nbsp;
 
 CODE
